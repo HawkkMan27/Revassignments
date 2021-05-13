@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\user\Documents\Revture Career\Revature Java Programs\Java_Practice_STS4\.metadata\.plugins\org.eclipse.jdt.core
+559670790.index
+2283346334.index

@@ -1,0 +1,15 @@
+
+public class OverloadedMethods {
+
+	public static void main(String args[]) {
+		
+		OverloadedMethods om = new OverloadedMethods();
+		om.print();
+	}
+		
+		public void print() {
+			System.out.println("original print method.");
+			
+		}
+	}
+

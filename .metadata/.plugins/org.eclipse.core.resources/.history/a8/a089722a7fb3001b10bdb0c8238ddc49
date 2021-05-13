@@ -1,0 +1,16 @@
+
+public class MethodParams {
+
+	public static void main(String args[]) {
+		MethodParams mp = new MethodParams();
+	
+		double d = mp.convertIntToDouble(44);
+		
+		System.out.println(d);
+	}
+	
+	public double convertIntToDouble(int num) {
+		return (double)num;
+	}
+	
+}
